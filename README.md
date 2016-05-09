@@ -4,6 +4,8 @@ This is a app for illustrating the `:gproc` usage according to:
 
 [Process registry in Elixir: A practical example](https://m.alphasights.com/process-registry-in-elixir-a-practical-example-4500ee7c0dcc#.x70gqi1a9)
 
+[An evaluation of Erlang global process registries: meet Syn](http://www.ostinelli.net/an-evaluation-of-erlang-global-process-registries-meet-syn)
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
