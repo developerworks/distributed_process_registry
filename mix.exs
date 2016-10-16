@@ -29,7 +29,7 @@ defmodule Chat.Mixfile do
   defp deps do
     [
       {:exsync, "~> 0.1.2"},
-      {:gproc, "~> 0.5.0"},
+      {:gproc, "~> 0.6.1"},
       {:short_maps, "~> 0.1.1"},
       {:tirexs, "~> 0.8.0"},
       {:arc, "~> 0.5.2"},
